@@ -1,0 +1,7 @@
+.class
+.classpath
+EmployeeManagement/
+.settings
+.metadata
+*/build/
+.properties
